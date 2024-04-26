@@ -19,4 +19,5 @@ The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
 The Deployed Frontend Link: https://alok-frontend1.onrender.com
+
 Backend: https://alok-backend.onrender.com
